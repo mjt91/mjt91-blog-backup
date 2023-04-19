@@ -1,6 +1,6 @@
 ---
 title: "Tools I love - my development stack 2023"
-# permalink: "bob/aug22"
+permalink: "apr23/dev-stack"
 categories:
   - dev
 tags:
